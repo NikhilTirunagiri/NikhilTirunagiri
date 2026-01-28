@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! I'm Nikhil :D
+<p>I spend most of my time building what interests me – from Agentic workflow development to modding my guitar, building a NAS, or even a http server from scratch, etc. I love exploring new tech and building things.</p>
+<p> Currently I'm working to build AI personal smart glasses, **Petal**.</p>
+
+
 
 <!--
 **NikhilTirunagiri/NikhilTirunagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
