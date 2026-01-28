@@ -10,11 +10,11 @@
 I spend most of my time building what interests me – from Agentic workflow development to modding my guitar, building a NAS, or even a http server from scratch, etc. I love exploring new tech and building things.
 
 
-Currently i'm working to build AI personal smart glasses - **petal✾**
+Currently i'm working on building AI infused smart glasses - **petal✾**
 
 
-tech-stack i usually work with:
-Python·Java · C · Rust · C++ · TypeScript · Shell/Bash Script · Django · React · Next.js · FastAPI · Redis · Supabase · AWS (EC2, S3) · Docker · Git
+tech-stack i usually work with: <br/>
+Python **·** Java **·** C **·** Rust **·** C++ **·** TypeScript **·** Shell/Bash Script **·** Django **·** React **·** Next.js **·** FastAPI **·** Redis **·** Supabase **·** AWS (EC2, S3) **·** Docker **·** Git
 
 
 
