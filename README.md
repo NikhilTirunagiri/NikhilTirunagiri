@@ -7,7 +7,7 @@
 )](https://www.linkedin.com/in/NikhilTirunagiri/) ✉️ ntirunag@gmu.edu
 
 
-I spend most of my time building what interests me – from Agentic workflow development to modding my guitar, building a NAS, or even a http server from scratch, etc. I love exploring new tech and building things.
+I spend most of my time building what interests me – from Agentic workflow development to modding my guitar, building a NAS, or even a http server from scratch. I love exploring new tech and building things.
 
 
 Currently i'm working on building AI infused smart glasses - **petal✾**
