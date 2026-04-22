@@ -10,9 +10,6 @@
 I spend most of my time building what interests me – from Agentic workflow development to modding my guitar. I love exploring new tech and building things.
 
 
-Currently i'm working on building AI infused smart glasses - **petal✾**
-
-
 <!--
 **NikhilTirunagiri/NikhilTirunagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
