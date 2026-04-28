@@ -7,7 +7,7 @@
 )](https://www.linkedin.com/in/NikhilTirunagiri/) ✉️ ntirunag@gmu.edu
 
 
-I spend most of my time building what interests me – from Agentic workflow development to modding my guitar. I love exploring new tech and building things.
+I spend most of my time building what interests me – from building agentic workflows to modding my guitar. I love exploring new tech and building things.
 
 
 <!--
