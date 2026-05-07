@@ -9,6 +9,24 @@
 
 I spend most of my time building what interests me – from building agentic workflows to modding my guitar. I love exploring new tech and building things.
 
+Checkout:
+<table>
+  <tr>
+    <td>
+      <a href="https://www.nikhilt.dev/projects/bunny">
+        <img src="https://www.nikhilt.dev/bunnicon.png" width="60" height="60" alt="Bunny Logo">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.nikhilt.dev/projects/bunny">
+        <b>Bunny</b>
+      </a>
+    </td>
+  </tr>
+  
+</table>
+<a href="https://www.nikhilt.dev/projects/bunny">ToolHunt.tech</a>
+
 
 <!--
 **NikhilTirunagiri/NikhilTirunagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
