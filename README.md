@@ -7,13 +7,6 @@
 )](https://www.linkedin.com/in/NikhilTirunagiri/) ✉️ ntirunag@gmu.edu
 
 
-I spend most of my time building what interests me – from building agentic workflows to modding my guitar. I love exploring new tech and building things.
-
-Checkout: </br>
-<a href="https://www.nikhilt.dev/projects/bunny">Bunny</a> </br>
-<a href="https://toolhunt.tech">ToolHunt.tech</a>
-
-
 <!--
 **NikhilTirunagiri/NikhilTirunagiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
