@@ -9,8 +9,8 @@
 
 I spend most of my time building what interests me – from building agentic workflows to modding my guitar. I love exploring new tech and building things.
 
-Checkout:
-<a href="https://www.nikhilt.dev/projects/bunny">ToolHunt.tech</a>
+Checkout: </br>
+<a href="https://www.nikhilt.dev/projects/bunny">Bunny</a> </br>
 <a href="https://toolhunt.tech">ToolHunt.tech</a>
 
 
